@@ -1,0 +1,7 @@
+# Raj's 5 friend's b-days
+print("Raj's 5 friends are as follows:")
+print("Prashanth's birthday is on- October 8")
+print("Kushik's birthday is on- April 1")
+print ("Navdeep's birthday is on- February 29")
+print("Aadhya's birthday is on - December 15")
+print("Mihira's birthday is on - February 13")
