@@ -1,0 +1,6 @@
+a=int(input("please type a number :"))
+if a>15: 
+ print("The given number is greater than 15")
+
+else :
+  print("The given number is lesser than 15")
