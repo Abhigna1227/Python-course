@@ -1,0 +1,6 @@
+a=5
+b=-10
+#print bitwise right shift operator
+print("a >> 1=",a >> 1)
+#print bitwise Left shift operator
+print("a << 1=",a <<1)
