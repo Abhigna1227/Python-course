@@ -1,0 +1,15 @@
+import random
+print("Hey i am PY and today we will be playing a game of random numbers it is like i will say a number and you guess it")
+print("The number will be from 1-5")
+playing=True
+number=str(random.randint(1,5))
+print("game starts now")
+while playing:
+    guess=input("now i guessed my number and now you also guess your number:")
+    if guess==number:
+            print("woohoo you get 1 point cuz you are right")
+            print("BTW the number was:",number)
+            break
+    else:
+        print("Uhh ohh you are wrong and i win so try again")
+     
