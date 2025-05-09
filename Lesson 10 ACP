@@ -1,0 +1,11 @@
+# Ask the user for the base number
+base = float(input("Enter the base number: "))
+
+# Ask the user for the exponent (power)
+exponent = float(input("Enter the exponent (power): "))
+
+# Calculate the result
+result = base ** exponent
+
+# Print the result
+print(f"{base} raised to the power {exponent} is {result}")
